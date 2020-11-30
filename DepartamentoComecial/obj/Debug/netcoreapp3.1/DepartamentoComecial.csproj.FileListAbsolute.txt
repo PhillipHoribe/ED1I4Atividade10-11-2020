@@ -1,0 +1,13 @@
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\obj\Debug\netcoreapp3.1\DepartamentoComecial.csprojAssemblyReference.cache
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\obj\Debug\netcoreapp3.1\DepartamentoComecial.AssemblyInfoInputs.cache
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\obj\Debug\netcoreapp3.1\DepartamentoComecial.AssemblyInfo.cs
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\obj\Debug\netcoreapp3.1\DepartamentoComecial.csproj.CoreCompileInputs.cache
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\bin\Debug\netcoreapp3.1\DepartamentoComecial.exe
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\bin\Debug\netcoreapp3.1\DepartamentoComecial.deps.json
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\bin\Debug\netcoreapp3.1\DepartamentoComecial.runtimeconfig.json
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\bin\Debug\netcoreapp3.1\DepartamentoComecial.runtimeconfig.dev.json
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\bin\Debug\netcoreapp3.1\DepartamentoComecial.dll
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\bin\Debug\netcoreapp3.1\DepartamentoComecial.pdb
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\obj\Debug\netcoreapp3.1\DepartamentoComecial.dll
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\obj\Debug\netcoreapp3.1\DepartamentoComecial.pdb
+C:\Users\Philc\Desktop\Ed\DepartamentoComecial\DepartamentoComecial\obj\Debug\netcoreapp3.1\DepartamentoComecial.genruntimeconfig.cache
